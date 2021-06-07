@@ -1,0 +1,15 @@
+-rwxrwxrwx 1 prateek prateek      0 May 30 22:07 'ContantOf image.txt'
+-rwxrwxrwx 1 prateek prateek  87032 Feb 12 04:28  about.jpg
+-rwxrwxrwx 1 prateek prateek   5661 Feb 12 04:28  app1.png
+-rwxrwxrwx 1 prateek prateek   4745 Feb 12 04:28  app2.png
+-rwxrwxrwx 1 prateek prateek   2616 May 30 22:00  building.svg
+-rwxrwxrwx 1 prateek prateek   1432 May 30 21:59 'data-server(1).svg'
+-rwxrwxrwx 1 prateek prateek 217875 Feb 12 04:28  home.png
+-rwxrwxrwx 1 prateek prateek  68945 Feb 12 04:28  movil-app.png
+-rwxrwxrwx 1 prateek prateek   4708 Feb 12 04:28  nootruck.svg
+-rwxrwxrwx 1 prateek prateek   4486 Feb 12 04:28  old-truck.svg
+-rwxrwxrwx 1 prateek prateek  14644 Feb 12 04:28  pizza.svg
+-rwxrwxrwx 1 prateek prateek  26109 Feb 12 04:28  plate1.png
+-rwxrwxrwx 1 prateek prateek  26921 Feb 12 04:28  plate2.png
+-rwxrwxrwx 1 prateek prateek  26966 Feb 12 04:28  plate3.png
+-rwxrwxrwx 1 prateek prateek   3954 May 30 22:01  school.svg
